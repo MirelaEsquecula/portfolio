@@ -1,0 +1,7 @@
+/* Ajustes finos para a Linha do Tempo do AMS */
+.timeline-container .timeline-item:last-child {
+    border-left: 0 !important;
+}
+.timeline-container .badge {
+    left: -6px !important;
+}
